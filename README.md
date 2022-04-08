@@ -17,11 +17,14 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-Navbar feature:
+##Navbar feature:
 <img src='navbar.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Pull to refresh feature:
+##Pull to refresh feature:
 <img src='refresh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+##20 Post limit:
+<img src = 'postlimit.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 ## Part 1
 ## User Stories
